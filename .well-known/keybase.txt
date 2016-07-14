@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/torp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://torp.io
+  * I am torp (https://keybase.io/torp) on keybase.
+  * I have a public key with fingerprint C600 20EF E881 5BFB 1298  F5F2 F243 6761 92E1 723E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120bd67f30d5b6a98742c2eb1cc13e526c0a71169cfefbf170c686485a8bc529a570a",
+            "fingerprint": "c60020efe8815bfb1298f5f2f243676192e1723e",
+            "host": "keybase.io",
+            "key_id": "f243676192e1723e",
+            "kid": "010171758a00ccf5101004eaf19bbf96e793296b374738256a107b0be22c3da2c8e40a",
+            "uid": "a41a20e9775f96b2fbf7950b8c825c19",
+            "username": "torp"
+        },
+        "service": {
+            "hostname": "torp.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1468488472,
+    "expire_in": 157680000,
+    "prev": "9e43a5302d602aece418fe1df8ad22d5b0cbe25660ff755a20271aa18096be9e",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMNnAnicbVJrUFVVGL0ImBIiEhVYAXNC0njts8/7ohQ6E1qhhiBQ4HWfc/eBM8A5
+l/vgMTdgaBDMsMKCqIynMUYIIxM0WERQoJGCo2bDqyJ1SkqHYQwnG7BzKWf60f6z
+5/v2Wmuv9e399Rp3g5fb/LZMdGTGGuv27cBhhyGl8qUAJyFq5iLC6CSy8fKGc8zY
+ZjdlK2bCSAASAtHMcjIFzIzIIoHnaChBLJKSRFKYgawEEEeSrCDJWBZlkgMSy7M0
+zyBelBgoIIYDiIggZEXNxFaLVVHtuqzEAgABljHPk4woiyQUeJmRoQxpiuVYUoCY
+5CCFdWKWZnMxdHMisuEoRdN7emFatvc/+Hu+AcmRHMMjACRJZvQSABojmRREURZY
+zAkUFFiR4miO4iHDIhJwIhAxhBJlRlDiMb3s27Esh2gS6X4FjmN0sgj1pJzAAJGX
+dK5ECi6gDVtVlIt1tF2zWojiCELv5CsSdg3VleI/p//EsFg1uyZpOXozy263GF0c
+e5HFBSrAoulfuklUVLM+PZ2Qj602RVMJI6kjJbvi0iNplqd5nuZgBIELLYoVmxQX
+guFYHujLdQ3O1yUFTFOIoQA0swAiLGGa5GVMmmUemSHUXxdIenyGZYEscwyj54Uc
+iRDJAz0xFlyzteE8VSOMgm4TZeqSNiVTRXaHFRPFgwPpHgY3L8NKzxWuX2XwWu17
+76+FBq1dfGjlYOGd1ldifuj+eX9QVE/63ksFZ33OfZd80CNjsx84df3Rrk1fOG8K
+u1ImHztxPeZpu/mj44boTs+8D2fnJwdGg0dXrmkwTJUHTffn/PRie1HgUG36SW7x
+8ewbI35p9abzo3PBdR9PjPkq29xqyluT7sSvbt/lid86UHo7Lfe+1JDA/paAd6rX
+zzS2O7g+Y8BxW0Fk++0OD/+ta8s+rRtJDotMxIUVfX8+srvxqYtNt7a7sVm/rnqi
+a1jc7/G5I3opLGb9uoySHxfiJ640FwyeuPD+A5W71dIy357gkgdh1U5/n0t1kzM2
+bXqsZUdu+2LTl6NXJy5vTN4qNAQf6rx/5m6kTe0R/ni7e/vUlfnXtzynnOxf7E19
+M/Hdy5+1rajxR0vO2fGLGm2a83557PvWjsaawhcOup+rHzkdmrDqPeSzp+ZAesiR
+jA0fjMFrptLyU103l7RnDDlx43HHuk1f+QWmRPa1JHSEH104lJrTHNo69LDqfsvZ
+6yjzGQw83bQl+O4bUft+vxYxXNu/r2Fv3Hj9mU+udqY9n1DxjbM5vdKWx1eZnPIC
+BextTza3VXkYqIoYL5/BAGs105YYEnujqOK36F9m5uJn1aFer5DhZ9V1h5vjcHRJ
+9UB6UtrG2ljyr/OdUQvF3gnT4Xmvle058+rUhqBNhvjC1LCzSSm9R8M379yBai/A
+omTvY38D6hW0Wg==
+=etl2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/torp
+
+==================================================================
